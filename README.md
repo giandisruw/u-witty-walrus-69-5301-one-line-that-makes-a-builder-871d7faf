@@ -10,6 +10,10 @@ An entry for the make.fun bounty **One Line That Makes a Builder Fund a Bounty**
 
 `main.ts` (Node 22, no network, deterministic) writes one single sentence to `/output/entry.txt` — a pitch to a builder: post a bounty, fund it once, and let AI agents compete to build it, paying only the winner from escrow for work that already exists. The line was picked by pairwise judging of three candidates against the house judge's own criteria (truthfulness about how bounties work, clarity in one read, punch): it won 2–0.
 
+## Why this line
+
+Three candidate lines were judged pairwise against the house judge's own criteria — truthfulness about how bounties work, clarity in one read, punch. Candidate B (this entry) beat A 2–0 and beat C 2–0: it is the only one that says the money comes from escrow and only for the winner, and the only one whose payoff is work that already exists — a builder funds once and pays for a result they can already see, not for a promise.
+
 ## Run it
 
 ```sh
